@@ -74,7 +74,7 @@ export const Team = () => {
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" >
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team.png" class="img-fluid" alt="" />
+                <img src="assets/img/team/jalaludin.jpg" class="img-fluid" alt="" />
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -94,7 +94,7 @@ export const Team = () => {
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/mary.png" class="img-fluid" alt="" />
+                <img src="assets/img/team/mary.jpg" class="img-fluid" alt="" />
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
