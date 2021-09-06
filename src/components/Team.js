@@ -28,7 +28,7 @@ export const Team = () => {
               <div class="member-info">
                 <h4>Oscar Okello</h4>
                 <span>Team Lead</span>
-                <p>Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum exercitationem iure minima enim corporis et voluptate.</p>
+                
               </div>
             </div>
           </div>
@@ -47,7 +47,7 @@ export const Team = () => {
               <div class="member-info">
                 <h4>Kalujja Eric </h4>
                 <span>Head of Operations</span>
-                <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
+                {/* <p>Decription here</p> */}
               </div>
             </div>
           </div>
@@ -66,7 +66,7 @@ export const Team = () => {
               <div class="member-info">
                 <h4>Busobozi Derrick Daniel</h4>
                 <span>Product Designer</span>
-                <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut architecto porro aspernatur molestiae modi.</p>
+                
               </div>
             </div>
           </div>
@@ -85,7 +85,7 @@ export const Team = () => {
               <div class="member-info">
                 <h4>Kalumba Jalaudin</h4>
                 <span>Chief Marketing Officer</span>
-                <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid doloremque ut possimus ipsum officia.</p>
+                
               </div>
             </div>
           </div>
@@ -105,7 +105,7 @@ export const Team = () => {
               <div class="member-info">
                 <h4>Nalyazi Mary</h4>
                 <span>Head of Finance</span>
-                <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid doloremque ut possimus ipsum officia.</p>
+                
               </div>
             </div>
           </div>

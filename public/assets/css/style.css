@@ -165,7 +165,7 @@ section {
   z-index: 997;
   padding: 20px 0;
   background: #fff;
-  opacity: 0.8;
+  opacity: 0.95;
   border-bottom: 1px, gray;
 }
 
@@ -1410,6 +1410,10 @@ section {
 .team .member .member-img {
   position: relative;
   overflow: hidden;
+}
+.team .member .member-img .img-fluid {
+  width: auto;
+  height: 300px;
 }
 
 .team .member .member-img:after {
