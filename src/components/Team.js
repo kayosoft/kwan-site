@@ -1,5 +1,5 @@
 import React from 'react';
-import Data from '../data/data.json'
+
 
 export const Team = () => {
     return (
@@ -19,10 +19,10 @@ export const Team = () => {
               <div class="member-img">
                 <img src="assets/img/team/bless.jpg" class="img-fluid" alt="" />
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-twitter"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-facebook"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-instagram"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -38,10 +38,10 @@ export const Team = () => {
               <div class="member-img">
                 <img src="assets/img/team/team.png" class="img-fluid" alt="" />
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-twitter"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-facebook"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-instagram"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -56,10 +56,10 @@ export const Team = () => {
               <div class="member-img">
                 <img src="assets/img/team/mary.jpg" class="img-fluid" alt="" />
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-twitter"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-facebook"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-instagram"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -75,10 +75,10 @@ export const Team = () => {
               <div class="member-img">
                 <img src="assets/img/team/derrick.png" class="img-fluid" alt="Derrick" />
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-twitter"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-facebook"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-instagram"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -94,10 +94,10 @@ export const Team = () => {
               <div class="member-img">
                 <img src="assets/img/team/jalaludin.jpg" class="img-fluid" alt="" />
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-twitter"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-facebook"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-instagram"></i></a>
+                  <a href="https://kwantutors.com/"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">

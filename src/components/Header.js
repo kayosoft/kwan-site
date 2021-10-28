@@ -6,7 +6,7 @@ export const Header = (props) => {
     <header id="header" className="header fixed-top" >
     <div className="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-      <a href="#" className="logo d-flex align-items-center">
+      <a href="https://kwantutors.com/" className="logo d-flex align-items-center">
         <img src="assets/img/icon/logo.png" alt="" />
         <span></span>
       </a>

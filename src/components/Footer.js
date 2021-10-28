@@ -31,31 +31,31 @@ export const Footer = () => {
             </a>
             <p>We provide students with peer tutoring services through our Kwan platforms,</p>
             <div className="social-links mt-3">
-              <a href="#" className="twitter"><i className="bi bi-twitter"></i></a>
-              <a href="#" className="facebook"><i className="bi bi-facebook"></i></a>
-              <a href="#" className="instagram"><i className="bi bi-instagram bx bxl-instagram"></i></a>
-              <a href="#" className="linkedin"><i className="bi bi-linkedin bx bxl-linkedin"></i></a>
+              <a href="https://kwantutors.com/" className="twitter"><i className="bi bi-twitter"></i></a>
+              <a href="https://kwantutors.com/" className="facebook"><i className="bi bi-facebook"></i></a>
+              <a href="https://kwantutors.com/" className="instagram"><i className="bi bi-instagram bx bxl-instagram"></i></a>
+              <a href="https://kwantutors.com/" className="linkedin"><i className="bi bi-linkedin bx bxl-linkedin"></i></a>
             </div>
           </div>
 
           <div className="col-lg-2 col-6 footer-links">
             <h4>Product</h4>
             <ul>
-              <li><i className="bi bi-chevron-right"></i> <a href="#">Why Kwan</a></li>
-              <li><i className="bi bi-chevron-right"></i> <a href="#how-kwan-works">How it works</a></li>
-              <li><i className="bi bi-chevron-right"></i> <a href="#">Payment</a></li>
-              <li><i className="bi bi-chevron-right"></i> <a href="#">Policies</a></li>
+              <li><i className="bi bi-chevron-right"></i> <a href="https://kwantutors.com/">Why Kwan</a></li>
+              <li><i className="bi bi-chevron-right"></i> <a href="https://kwantutors.com/how-kwan-works">How it works</a></li>
+              <li><i className="bi bi-chevron-right"></i> <a href="https://kwantutors.com/">Payment</a></li>
+              <li><i className="bi bi-chevron-right"></i> <a href="https://kwantutors.com/">Policies</a></li>
             </ul>
           </div>
 
           <div className="col-lg-2 col-6 footer-links">
             <h4>Company</h4>
             <ul>
-              <li><i className="bi bi-chevron-right"></i> <a href="#about">About Us</a></li>
-              <li><i className="bi bi-chevron-right"></i> <a href="#team">Our Team</a></li>
-              <li><i className="bi bi-chevron-right"></i> <a href="#clients">Partnerships</a></li>
-              <li><i className="bi bi-chevron-right"></i> <a href="#recent-blog-posts">Blog</a></li>
-              <li><i className="bi bi-chevron-right"></i> <a href="#">Career</a></li>
+              <li><i className="bi bi-chevron-right"></i> <a href="https://kwantutors.com/about">About Us</a></li>
+              <li><i className="bi bi-chevron-right"></i> <a href="https://kwantutors.com/team">Our Team</a></li>
+              <li><i className="bi bi-chevron-right"></i> <a href="https://kwantutors.com/clients">Partnerships</a></li>
+              <li><i className="bi bi-chevron-right"></i> <a href="https://kwantutors.com/recent-blog-posts">Blog</a></li>
+              <li><i className="bi bi-chevron-right"></i> <a href="https://kwantutors.com/">Career</a></li>
             </ul>
           </div>
 
@@ -80,7 +80,7 @@ export const Footer = () => {
         &copy; Copyright <strong><span>Kwan Technologies Ltd</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
-        Download Our <a href="">Android App</a><span> . </span><a href="">iOS App</a>
+        Download Our <a href="https://kwantutors.com/">Android App</a><span> . </span><a href="https://kwantutors.com/">iOS App</a>
       </div>
     </div>
   </footer>

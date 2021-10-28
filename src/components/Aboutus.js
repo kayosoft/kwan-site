@@ -15,7 +15,8 @@ export const Aboutus = () => {
               We align incentives for all stakeholders involved: peer tutor, student learner, and university – allowing us to minimize costs and maximize impact, we focus on the dual benefit of tutoring and the power of peers through activating learning communities.
               </p>
               <div class="text-center text-lg-start">
-                <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+             
+                <a href="https://kwantutors.com/" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
                   <span>Read More</span>
                   <i class="bi bi-arrow-right"></i>
                 </a>
