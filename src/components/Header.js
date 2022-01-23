@@ -18,7 +18,7 @@ export const Header = (props) => {
           <li><a className="nav-link scrollto" href="#about">About</a></li>
           <li><a className="nav-link scrollto" href="###">Career</a></li>
           <li><a className="nav-link scrollto" href="#footer">Contact Us</a></li>
-          <li><a className="nav-link scrollto" href="##">Sign in</a></li>
+          <li><a className="nav-link scrollto" href="https://app.kwantutors.com">Sign in</a></li>
 
         </ul>
         <i className="bi bi-list mobile-nav-toggle"></i>
